@@ -4,8 +4,9 @@
 The **Metaverse-Based Learning Quests** project is a decentralized application (dApp) designed to enable immersive educational experiences within the metaverse. Learners can engage in various quests to acquire new knowledge and skills, track their progress, and earn rewards. These quests can be created by instructors or administrators, and learners can complete tasks within the metaverse to claim their rewards, making the learning experience interactive and gamified.
 
 ## Contract Address: 0xd9145CCE52D386f254917e481eB44e9943F39138
-Example (on testnet):
-`0x1234abcd...`
+![image](https://github.com/user-attachments/assets/8bb0d0ad-8468-45d5-a0f5-f481a7da5ea5)
+
+
 
 ## Project Vision
 The vision of **Metaverse-Based Learning Quests** is to revolutionize the way education is delivered by leveraging the capabilities of the metaverse and blockchain technology. We aim to create an engaging, rewarding, and decentralized learning platform where users can interact with virtual environments, complete educational quests, and earn real-world rewards.
